@@ -1,0 +1,9 @@
+version: 2
+sources:
+- name: dbt_airflow
+  schema: public
+  description:  Thao tac voi dbt va airflow
+  tables:
+  - name: covid_csv
+    description: Dữ liệu thô về covid
+  
