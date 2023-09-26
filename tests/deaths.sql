@@ -8,4 +8,4 @@ src AS (
 
 SELECT *
 FROM src
-WHERE death >1000
+WHERE death >1000000
